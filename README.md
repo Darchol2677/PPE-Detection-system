@@ -131,9 +131,21 @@ python detect.py --source 0
 
 ---
 
-## 📷 Results
+## 📷 Detection Results
 
-Add screenshots inside the `screenshots/` folder and display them here using Markdown image links after uploading them to GitHub.
+### Image Detection
+
+![Detection Result](output/result.jpg)
+
+### Model Performance
+
+![Model Performance](result/model_performance.png)
+
+### Video Detection
+
+A sample detection video is included in the repository:
+
+📁 `output/output_video.mp4`
 
 ---
 
