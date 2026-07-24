@@ -72,7 +72,7 @@ Simply run one of the following:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ppe-detection-system.git
+git clone https://github.com/Darchol2677/ppe-detection-system.git
 ```
 
 Move into the project folder:
@@ -160,6 +160,7 @@ Interested in:
 - Computer Vision
 - Deep Learning
 - Python Development
+- Machine learning
 
 ---
 

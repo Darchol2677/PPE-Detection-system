@@ -21,8 +21,7 @@ logs/
 test.jpg
 video.mp4
 
-# Output Results
-output/
+
 
 #model
 yolo11n.pt
