@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Dataset
+Dataset/
+
+# Training Outputs
+runs/
+
+# Logs
+logs/
+
+# Test Files    
+test.jpg
+video.mp4
+
+# Output Results
+output/
+
+#model
+yolo11n.pt
