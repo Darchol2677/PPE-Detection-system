@@ -137,10 +137,6 @@ python detect.py --source 0
 
 ![Detection Result](output/result.jpg)
 
-### Model Performance
-
-![Model Performance](result/model_performance.png)
-
 ### Video Detection
 
 A sample detection video is included in the repository:
